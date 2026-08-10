@@ -1,0 +1,8 @@
+ladybird = "99152ee23a8c6106d21cd88fd405acdb1969098f"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "21d2d912461a5147de107a8566c2efc816d7ad94974b194b508f973aa2d07205"
+baseline = "40f3c709db80acf154ac4b17a1f83c564ebd022e"
+date     = "2026-08-10"
+time     = "13:20"
+title    = "LibWeb: Finalize a box's SVG payloads before placing it"
+lbenv    = "865ca0dfc92d5c1ac167217820fbaf1aef7ca180"

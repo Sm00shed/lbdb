@@ -1,0 +1,8 @@
+ladybird = "bde8514211fe76175a04da0b6b22fe34ce05abd9"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "21d2d912461a5147de107a8566c2efc816d7ad94974b194b508f973aa2d07205"
+baseline = "40f3c709db80acf154ac4b17a1f83c564ebd022e"
+date     = "2026-08-10"
+time     = "13:20"
+title    = "LibWeb: Emit committed box geometry from the fragment tree"
+lbenv    = "865ca0dfc92d5c1ac167217820fbaf1aef7ca180"
