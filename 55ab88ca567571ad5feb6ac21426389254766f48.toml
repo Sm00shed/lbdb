@@ -1,0 +1,8 @@
+ladybird = "55ab88ca567571ad5feb6ac21426389254766f48"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "1bfb778f0e1e4b0293d4e78c61325dafd35a6c4b989b5e5ce1819ddf0afb4d5a"
+baseline = "40f3c709db80acf154ac4b17a1f83c564ebd022e"
+date     = "2026-08-09"
+time     = "15:19"
+title    = "LibWeb: Match :root against the root of any document"
+lbenv    = "8ae07dfd79bccf34222991b4a4f249cfc29fe31a"

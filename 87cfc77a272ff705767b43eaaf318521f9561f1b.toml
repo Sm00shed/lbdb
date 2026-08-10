@@ -1,0 +1,8 @@
+ladybird = "87cfc77a272ff705767b43eaaf318521f9561f1b"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "1bfb778f0e1e4b0293d4e78c61325dafd35a6c4b989b5e5ce1819ddf0afb4d5a"
+baseline = "40f3c709db80acf154ac4b17a1f83c564ebd022e"
+date     = "2026-08-09"
+time     = "10:02"
+title    = "LibWeb: Lay out abspos children at containing-block completion"
+lbenv    = "9cb7770a984e3cb023a44d0b39c5bfbdc2bb88e6"
