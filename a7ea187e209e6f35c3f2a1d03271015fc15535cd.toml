@@ -1,0 +1,8 @@
+ladybird = "a7ea187e209e6f35c3f2a1d03271015fc15535cd"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "21d2d912461a5147de107a8566c2efc816d7ad94974b194b508f973aa2d07205"
+baseline = "40f3c709db80acf154ac4b17a1f83c564ebd022e"
+date     = "2026-08-10"
+time     = "17:34"
+title    = "LibWeb: Replace LayoutState with a threaded LayoutPurpose value"
+lbenv    = "05e4e6fde6f47019dd5ed390b74bc35900a640a5"
