@@ -1,0 +1,8 @@
+ladybird = "87886969e5da0b2db438c955e59ea6350f5d6fc2"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "21d2d912461a5147de107a8566c2efc816d7ad94974b194b508f973aa2d07205"
+baseline = "40f3c709db80acf154ac4b17a1f83c564ebd022e"
+date     = "2026-08-10"
+time     = "06:24"
+title    = "LibWeb: Propagate `vertical-align` to anonymous table wrapper boxes"
+lbenv    = "8ae07dfd79bccf34222991b4a4f249cfc29fe31a"
