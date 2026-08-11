@@ -1,0 +1,8 @@
+ladybird = "02085acf3028e4c31d744ea902240ca3795d5445"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "21d2d912461a5147de107a8566c2efc816d7ad94974b194b508f973aa2d07205"
+baseline = "40f3c709db80acf154ac4b17a1f83c564ebd022e"
+date     = "2026-08-11"
+time     = "07:25"
+title    = "LibGC: Accept sealed pointers in weak references"
+lbenv    = "05e4e6fde6f47019dd5ed390b74bc35900a640a5"
