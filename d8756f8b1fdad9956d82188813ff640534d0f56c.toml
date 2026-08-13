@@ -1,0 +1,8 @@
+ladybird = "d8756f8b1fdad9956d82188813ff640534d0f56c"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "21d2d912461a5147de107a8566c2efc816d7ad94974b194b508f973aa2d07205"
+baseline = "40f3c709db80acf154ac4b17a1f83c564ebd022e"
+date     = "2026-08-13"
+time     = "10:49"
+title    = "LibWeb: Add fragment cache epochs for layout invalidation tracking"
+lbenv    = "bad8a2c7829c20872781638e1fae2348341560df"
