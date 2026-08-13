@@ -1,0 +1,8 @@
+ladybird = "b4fdfb53115ec822ecc621d4e6d158077d025dfb"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "21d2d912461a5147de107a8566c2efc816d7ad94974b194b508f973aa2d07205"
+baseline = "40f3c709db80acf154ac4b17a1f83c564ebd022e"
+date     = "2026-08-13"
+time     = "23:06"
+title    = "LibWeb: Let an empty user style source clear the user style"
+lbenv    = "bad8a2c7829c20872781638e1fae2348341560df"
