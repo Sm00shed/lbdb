@@ -1,0 +1,8 @@
+ladybird = "99d7d9d95c33530ab8d904105ffa2efa6c6a16a4"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "21d2d912461a5147de107a8566c2efc816d7ad94974b194b508f973aa2d07205"
+baseline = "40f3c709db80acf154ac4b17a1f83c564ebd022e"
+date     = "2026-08-13"
+time     = "13:23"
+title    = "LibWeb: Roll revert-layer back from the implicit outer layer"
+lbenv    = "bad8a2c7829c20872781638e1fae2348341560df"
