@@ -1,0 +1,8 @@
+ladybird = "10c31646b4a1381cd7e0e4f521e680655b38baba"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "21d2d912461a5147de107a8566c2efc816d7ad94974b194b508f973aa2d07205"
+baseline = "40f3c709db80acf154ac4b17a1f83c564ebd022e"
+date     = "2026-08-16"
+time     = "13:38"
+title    = "LibWeb: Make StyleRecord the computed value object"
+lbenv    = "c60908ff81cf40b7c52696ff80bc125ee520aa6e"
