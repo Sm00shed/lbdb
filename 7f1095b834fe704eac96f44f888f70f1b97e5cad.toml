@@ -1,0 +1,8 @@
+ladybird = "7f1095b834fe704eac96f44f888f70f1b97e5cad"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "21d2d912461a5147de107a8566c2efc816d7ad94974b194b508f973aa2d07205"
+baseline = "40f3c709db80acf154ac4b17a1f83c564ebd022e"
+date     = "2026-08-22"
+time     = "03:52"
+title    = "LibWeb: Tidy after the shell removal"
+lbenv    = "b22a4ad03d5736596e32acd0e9a9c699f0df8d91"
