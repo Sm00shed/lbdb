@@ -1,0 +1,8 @@
+ladybird = "41c0ca74a96878d13d54d7f82fcaf2c8008b93e5"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "0c7b6d71faa846458c90711fef46e1274a179a5410ed83e75cc7c325e0dd4c7c"
+baseline = "7f3781e19cc7d4e4882a4caec01668c6f7b5c163"
+date     = "2026-08-27"
+time     = "14:28"
+title    = "LibWeb: Derive sticky offsets from a Sticky spatial node"
+lbenv    = "1dcced05c4920ebfcc0d0853cb0d3cf44cebd72e"
