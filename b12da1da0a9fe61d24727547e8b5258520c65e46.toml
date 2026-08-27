@@ -1,0 +1,8 @@
+ladybird = "b12da1da0a9fe61d24727547e8b5258520c65e46"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "3f2ee548114f2132c5853fec89514a4b732d03e273eb7737f79143cdcc3ada73"
+baseline = "7f3781e19cc7d4e4882a4caec01668c6f7b5c163"
+date     = "2026-08-22"
+time     = "22:21"
+title    = "LibWeb: Key paintable rows by NodeSlotId and delete PaintableSlotId"
+lbenv    = "2f94fb2553f401b902600ce750177cbf5bdb4a04"

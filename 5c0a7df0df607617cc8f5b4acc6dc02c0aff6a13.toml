@@ -1,0 +1,8 @@
+ladybird = "5c0a7df0df607617cc8f5b4acc6dc02c0aff6a13"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "3f2ee548114f2132c5853fec89514a4b732d03e273eb7737f79143cdcc3ada73"
+baseline = "7f3781e19cc7d4e4882a4caec01668c6f7b5c163"
+date     = "2026-08-23"
+time     = "20:36"
+title    = "LibWeb: Parse remaining CSS longhands in Rust"
+lbenv    = "2f94fb2553f401b902600ce750177cbf5bdb4a04"
