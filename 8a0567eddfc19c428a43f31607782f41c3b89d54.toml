@@ -1,0 +1,8 @@
+ladybird = "8a0567eddfc19c428a43f31607782f41c3b89d54"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "0c7b6d71faa846458c90711fef46e1274a179a5410ed83e75cc7c325e0dd4c7c"
+baseline = "7f3781e19cc7d4e4882a4caec01668c6f7b5c163"
+date     = "2026-08-28"
+time     = "14:44"
+title    = "LibWeb: Stop building a content blocker engine for empty rule sets"
+lbenv    = "1dcced05c4920ebfcc0d0853cb0d3cf44cebd72e"
