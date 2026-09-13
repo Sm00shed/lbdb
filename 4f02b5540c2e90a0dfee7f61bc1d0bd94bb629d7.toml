@@ -1,0 +1,8 @@
+ladybird = "4f02b5540c2e90a0dfee7f61bc1d0bd94bb629d7"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "0c7b6d71faa846458c90711fef46e1274a179a5410ed83e75cc7c325e0dd4c7c"
+baseline = "7f3781e19cc7d4e4882a4caec01668c6f7b5c163"
+date     = "2026-09-12"
+time     = "23:47"
+title    = "LibWeb: Derive blocking wheel handler state when building layout boxes"
+lbenv    = "5b5cf2cc6b915d0bd1c15b164405bda58397eed7"
