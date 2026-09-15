@@ -1,0 +1,8 @@
+ladybird = "a2130db44a0b859dc41e459bf57632e9411dd1ed"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "0c7b6d71faa846458c90711fef46e1274a179a5410ed83e75cc7c325e0dd4c7c"
+baseline = "7f3781e19cc7d4e4882a4caec01668c6f7b5c163"
+date     = "2026-09-15"
+time     = "22:17"
+title    = "LibWeb: Isolate ordinary prefix transition scratch and effects"
+lbenv    = "5b5cf2cc6b915d0bd1c15b164405bda58397eed7"
