@@ -1,0 +1,8 @@
+ladybird = "d8e2b5d9956b5ac3bdd68d8f2e9d4c5868631a0e"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "0c7b6d71faa846458c90711fef46e1274a179a5410ed83e75cc7c325e0dd4c7c"
+baseline = "7f3781e19cc7d4e4882a4caec01668c6f7b5c163"
+date     = "2026-09-16"
+time     = "18:37"
+title    = "LibWeb: Hold host objects the engine never follows as handles"
+lbenv    = "5b5cf2cc6b915d0bd1c15b164405bda58397eed7"
