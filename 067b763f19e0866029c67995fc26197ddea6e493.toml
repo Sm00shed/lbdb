@@ -1,0 +1,8 @@
+ladybird = "067b763f19e0866029c67995fc26197ddea6e493"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "0c7b6d71faa846458c90711fef46e1274a179a5410ed83e75cc7c325e0dd4c7c"
+baseline = "7f3781e19cc7d4e4882a4caec01668c6f7b5c163"
+date     = "2026-09-20"
+time     = "10:48"
+title    = "LibWeb: Queue element tasks on the element's relevant global object"
+lbenv    = "5b5cf2cc6b915d0bd1c15b164405bda58397eed7"
