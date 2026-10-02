@@ -1,0 +1,8 @@
+ladybird = "2d70633552009ff87e422f5f3efde2a8232f236a"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "0c7b6d71faa846458c90711fef46e1274a179a5410ed83e75cc7c325e0dd4c7c"
+baseline = "7f3781e19cc7d4e4882a4caec01668c6f7b5c163"
+date     = "2026-10-02"
+time     = "12:47"
+title    = "LibWeb: Settle selection observability in the style engine"
+lbenv    = "7fb895a1c633a35b31db281cc54d2dd5528f4c77"
