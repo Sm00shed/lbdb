@@ -1,0 +1,8 @@
+ladybird = "ffdbc1ba59f1a13f4d87da70049f4c6d2b07bf76"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "0c7b6d71faa846458c90711fef46e1274a179a5410ed83e75cc7c325e0dd4c7c"
+baseline = "7f3781e19cc7d4e4882a4caec01668c6f7b5c163"
+date     = "2026-10-02"
+time     = "14:20"
+title    = "LibWebView+UI/Qt: Extract a store for the saved crash report directory"
+lbenv    = "387daed4fc0354a01e900bba907c910b280e5765"
