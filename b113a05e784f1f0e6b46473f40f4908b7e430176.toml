@@ -1,0 +1,8 @@
+ladybird = "b113a05e784f1f0e6b46473f40f4908b7e430176"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "0c7b6d71faa846458c90711fef46e1274a179a5410ed83e75cc7c325e0dd4c7c"
+baseline = "7f3781e19cc7d4e4882a4caec01668c6f7b5c163"
+date     = "2026-10-07"
+time     = "22:36"
+title    = "LibJS: Merge the Rust runtime crate into libjs_rust"
+lbenv    = "e2254c4da0df58dc3d0a45f555c7056c41c49894"
