@@ -1,0 +1,8 @@
+ladybird = "8319c2361dd9694e047b62e96f0e56aa9df61e2c"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "0c7b6d71faa846458c90711fef46e1274a179a5410ed83e75cc7c325e0dd4c7c"
+baseline = "7f3781e19cc7d4e4882a4caec01668c6f7b5c163"
+date     = "2026-10-12"
+time     = "07:51"
+title    = "LibJS: Remove JIT int32 arithmetic whose results nothing reads"
+lbenv    = "e2254c4da0df58dc3d0a45f555c7056c41c49894"
