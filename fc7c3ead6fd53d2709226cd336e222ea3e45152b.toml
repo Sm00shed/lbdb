@@ -1,0 +1,8 @@
+ladybird = "fc7c3ead6fd53d2709226cd336e222ea3e45152b"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "01eaa1cf8f34c180c586b219f2d9e3725504c054bd42ec229a1e4dbc7f52b5ed"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-15"
+time     = "19:07"
+title    = "Meta: Update curl to version 8.23.0#0"
+lbenv    = "e6d7f7d9dab7d3739ced5cdc423db571154b557e"
