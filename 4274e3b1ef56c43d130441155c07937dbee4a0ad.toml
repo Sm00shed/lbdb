@@ -1,0 +1,8 @@
+ladybird = "4274e3b1ef56c43d130441155c07937dbee4a0ad"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "c6703848430629148f60d4a4c7fa68ddf415f802c664d79a4b25131323414d47"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-15"
+time     = "19:07"
+title    = "Meta: Update vcpkg baseline"
+lbenv    = "e2254c4da0df58dc3d0a45f555c7056c41c49894"
