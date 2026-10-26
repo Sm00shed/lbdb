@@ -1,0 +1,8 @@
+ladybird = "8f0a213e60cb7b2e2baf2df9151dfdf640480a5b"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "97fac9c4135af8818d760b2e1e4449eb8151bb11b395518593ca3c8a50153a79"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-15"
+time     = "19:07"
+title    = "Meta: Update cpptrace to version 1.0.4#2"
+lbenv    = "e2254c4da0df58dc3d0a45f555c7056c41c49894"
