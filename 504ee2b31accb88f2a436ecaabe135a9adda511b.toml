@@ -1,0 +1,8 @@
+ladybird = "504ee2b31accb88f2a436ecaabe135a9adda511b"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "a46f32617335d10d950702539b0c48bb43c918f5a4cf3347d11f5802ba9f121c"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-15"
+time     = "19:07"
+title    = "Meta: Update qt to version 6.10.2#0"
+lbenv    = "fbbfcfd95af0907c83e784f700903584c05160b3"
