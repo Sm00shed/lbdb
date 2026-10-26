@@ -1,0 +1,8 @@
+ladybird = "0fd33a9bb5cd151928e67369a0f76604436a8424"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "c8e1af1e7f5d84bc0c81c3d143db20b9f8e36510e95c87bed9798fc5e3d8b6fd"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-15"
+time     = "19:07"
+title    = "Meta: Update libpng to version 1.6.59#0"
+lbenv    = "5cedb517e0800357b496a8a530dc00ceb6804264"
