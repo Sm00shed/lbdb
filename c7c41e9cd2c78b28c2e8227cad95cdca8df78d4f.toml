@@ -1,0 +1,8 @@
+ladybird = "c7c41e9cd2c78b28c2e8227cad95cdca8df78d4f"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "5f970bc46c2d7c101227eb92b860732863d963f3239bd763ff78a132fc37855e"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-26"
+time     = "04:18"
+title    = "UI/Qt: Get writing suggestions from NSSpellChecker on macOS"
+lbenv    = "1522d1746701373aabb4f0716cb9a81ddf751a0d"

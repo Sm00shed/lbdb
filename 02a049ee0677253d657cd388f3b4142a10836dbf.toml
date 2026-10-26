@@ -1,0 +1,8 @@
+ladybird = "02a049ee0677253d657cd388f3b4142a10836dbf"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "5f970bc46c2d7c101227eb92b860732863d963f3239bd763ff78a132fc37855e"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-25"
+time     = "10:12"
+title    = "LibWeb: Scroll the caret on an empty line into view"
+lbenv    = "1522d1746701373aabb4f0716cb9a81ddf751a0d"

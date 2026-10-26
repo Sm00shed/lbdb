@@ -1,0 +1,8 @@
+ladybird = "b5ea62cf8afc3d37aa1b72cab835bf1fed2d200b"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "5f970bc46c2d7c101227eb92b860732863d963f3239bd763ff78a132fc37855e"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-25"
+time     = "20:10"
+title    = "LibJS+LibWeb: Make the bits of a Value private to libjs_rust"
+lbenv    = "1522d1746701373aabb4f0716cb9a81ddf751a0d"
