@@ -1,0 +1,8 @@
+ladybird = "ae40dc3cd44e6a00fbcfa93fa5c1bf44c674e424"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "a1f0aea3dc3288de9f02e85d956d40a3b341617de5a737bfd7e4d8d3b710e588"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-15"
+time     = "19:07"
+title    = "Meta: Update libxml2 to version 2.15.4#0"
+lbenv    = "5cedb517e0800357b496a8a530dc00ceb6804264"
