@@ -1,0 +1,8 @@
+ladybird = "69d21ea8c3f21a0a9c8e96a54b8b478f9da4602d"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "59a0a8ec36a1348e2892a00a9d887c74bd4a6be0527c8e4bf4c854ac12a6137a"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-15"
+time     = "19:07"
+title    = "Meta: Update simdjson to version 5.0.2#0"
+lbenv    = "5a6b1aaf311c8eec159afee0df1815e2dcb34e97"
