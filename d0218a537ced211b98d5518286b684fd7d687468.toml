@@ -1,0 +1,8 @@
+ladybird = "d0218a537ced211b98d5518286b684fd7d687468"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "d16e843a7c98955dfcf4377d322c02527b921a1f1febd9d7d209b64e01ab4007"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-18"
+time     = "04:54"
+title    = "LibWeb: Parse media feature values once per query"
+lbenv    = "1522d1746701373aabb4f0716cb9a81ddf751a0d"

@@ -1,0 +1,8 @@
+ladybird = "66dc4e94fec1234d01f5f959a886cf2c1f78c32b"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "d16e843a7c98955dfcf4377d322c02527b921a1f1febd9d7d209b64e01ab4007"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-24"
+time     = "02:55"
+title    = "LibWeb: Start grid auto-placement at the start of the implicit grid"
+lbenv    = "1522d1746701373aabb4f0716cb9a81ddf751a0d"

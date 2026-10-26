@@ -1,0 +1,8 @@
+ladybird = "6600cad16d19aa701327389c710afd5bc368fbc0"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "d16e843a7c98955dfcf4377d322c02527b921a1f1febd9d7d209b64e01ab4007"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-24"
+time     = "02:58"
+title    = "Tests: Skip more tests that are flaky on the arm64 sanitizer CI runner"
+lbenv    = "1522d1746701373aabb4f0716cb9a81ddf751a0d"

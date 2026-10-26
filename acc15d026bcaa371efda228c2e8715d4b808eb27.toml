@@ -1,0 +1,8 @@
+ladybird = "acc15d026bcaa371efda228c2e8715d4b808eb27"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "d16e843a7c98955dfcf4377d322c02527b921a1f1febd9d7d209b64e01ab4007"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-20"
+time     = "06:17"
+title    = "LibWeb: Republish what held environments hand down on @property changes"
+lbenv    = "1522d1746701373aabb4f0716cb9a81ddf751a0d"

@@ -1,0 +1,8 @@
+ladybird = "49a6d55d905d238e7d4e6a8ed74b11d6549036b7"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "d16e843a7c98955dfcf4377d322c02527b921a1f1febd9d7d209b64e01ab4007"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-23"
+time     = "22:30"
+title    = "LibWeb: Detect a line that ends in a br in insertParagraph"
+lbenv    = "1522d1746701373aabb4f0716cb9a81ddf751a0d"

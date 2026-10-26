@@ -1,0 +1,8 @@
+ladybird = "1637ecf02dfc36167513689a257155778e2d87b1"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "d16e843a7c98955dfcf4377d322c02527b921a1f1febd9d7d209b64e01ab4007"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-23"
+time     = "10:46"
+title    = "LibWeb+Compositor: Let overlay scrollbars that faded out take no input"
+lbenv    = "1522d1746701373aabb4f0716cb9a81ddf751a0d"

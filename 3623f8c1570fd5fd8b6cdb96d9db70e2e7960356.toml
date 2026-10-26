@@ -1,0 +1,8 @@
+ladybird = "3623f8c1570fd5fd8b6cdb96d9db70e2e7960356"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "d16e843a7c98955dfcf4377d322c02527b921a1f1febd9d7d209b64e01ab4007"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-24"
+time     = "15:12"
+title    = "LibWeb: Size currentColor dependency bitmaps by the longhand count"
+lbenv    = "1522d1746701373aabb4f0716cb9a81ddf751a0d"

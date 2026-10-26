@@ -1,0 +1,8 @@
+ladybird = "1154decd58a82e6142536d9a48138603491caf5e"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "d16e843a7c98955dfcf4377d322c02527b921a1f1febd9d7d209b64e01ab4007"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-21"
+time     = "00:21"
+title    = "LibGfx+LibWeb: Encode WebDriver screenshots with fast PNG compression"
+lbenv    = "1522d1746701373aabb4f0716cb9a81ddf751a0d"
