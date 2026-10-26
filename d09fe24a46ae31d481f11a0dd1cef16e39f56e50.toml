@@ -1,0 +1,8 @@
+ladybird = "d09fe24a46ae31d481f11a0dd1cef16e39f56e50"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "4e836192e421dcb11dc8d6dcbf5eb2dea44258574b7e3d9a628fb8bfc4179736"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-15"
+time     = "19:07"
+title    = "Meta: Update pdfjs to version 6.4.299#0"
+lbenv    = "0ee8330ccfd366ed403f68c013ce7f9352b09a2a"
