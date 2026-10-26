@@ -1,0 +1,8 @@
+ladybird = "fcc9b3b86b3457e0527018042066ba6ef796bf48"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "9dfb408e844bbbfaffb989977d9bf00408ba9b20e89a35ba2932876c818c6704"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-15"
+time     = "19:07"
+title    = "Meta: Update fast-float to version 8.3.1#0"
+lbenv    = "940a092d3f2638fdccdc41baca50993a1ce0ba61"
