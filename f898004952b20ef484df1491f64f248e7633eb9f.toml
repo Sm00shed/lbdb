@@ -1,0 +1,8 @@
+ladybird = "f898004952b20ef484df1491f64f248e7633eb9f"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "ec2be2695f5536d6c48526e4b69b09083049f15bc9bf34cdc1eafb2f14f16498"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-15"
+time     = "19:07"
+title    = "Meta: Update ffmpeg to version 9.0.2#1"
+lbenv    = "940a092d3f2638fdccdc41baca50993a1ce0ba61"
