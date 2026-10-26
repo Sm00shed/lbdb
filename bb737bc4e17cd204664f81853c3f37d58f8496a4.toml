@@ -1,0 +1,8 @@
+ladybird = "bb737bc4e17cd204664f81853c3f37d58f8496a4"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "39ca6c5ea5ffaf9b27a50cb713037de0e4e92072ccb5cf34f553855709d8d7f2"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-15"
+time     = "19:07"
+title    = "Meta: Update libedit to version 2024-08-08#1"
+lbenv    = "82c38664c8bbe44e917e95a41507738ad7597933"
