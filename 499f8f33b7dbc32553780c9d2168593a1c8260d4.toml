@@ -1,0 +1,8 @@
+ladybird = "499f8f33b7dbc32553780c9d2168593a1c8260d4"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "9ba706e513e0fe6ac11680a2315450c63e8f672193dee4dedca2fbfc11c881e7"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-15"
+time     = "19:07"
+title    = "Meta: Update libdwarf to version 2.3.3#0"
+lbenv    = "82c38664c8bbe44e917e95a41507738ad7597933"
