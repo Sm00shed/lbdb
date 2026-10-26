@@ -1,0 +1,8 @@
+ladybird = "f6407b38a4cf2bd1374ec97231358e887df39813"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "28cfc0e9a448b29970514ede4ecfed31472adb2fec5ec4bf2d56e9a20042a8a9"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-15"
+time     = "19:07"
+title    = "Meta: Update dav1d to version 1.5.4#0"
+lbenv    = "3ca20e8a66e36295c72d31c5e3636cc54f5e5423"
