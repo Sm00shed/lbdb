@@ -1,0 +1,8 @@
+ladybird = "9cf2fe19b0d901be83d84585d2991fa4bd4850e2"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "4a8068c541a63c499a34b56db1fee9bf9629fbbf3da42cace3c1220cf4aef2e2"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-15"
+time     = "19:07"
+title    = "Meta: Update openssl to version 3.6.5#1"
+lbenv    = "0ee8330ccfd366ed403f68c013ce7f9352b09a2a"
