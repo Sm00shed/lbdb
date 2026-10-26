@@ -1,0 +1,8 @@
+ladybird = "8b8191624f3e5809d31df491cbf76af8788f0c16"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "2d6fbab3c2ad3f1b137d37a311d85944109615e2905e852f13d46956a09b4f04"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-17"
+time     = "18:07"
+title    = "Meta: Add a port for zmij"
+lbenv    = "ed998e3bc3052c2e2f729e81625df8a08b54283f"
