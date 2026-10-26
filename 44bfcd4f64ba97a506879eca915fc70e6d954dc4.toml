@@ -1,0 +1,8 @@
+ladybird = "44bfcd4f64ba97a506879eca915fc70e6d954dc4"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "d51a1225af12144acea933e38d2e233a0d0dfd224505b5758f82fadaa6bd8c5f"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-16"
+time     = "12:16"
+title    = "Utilities/js: Add debugger command aliases"
+lbenv    = "88d2b789ac77c10c257fdd2e06f48a436f92e73a"
