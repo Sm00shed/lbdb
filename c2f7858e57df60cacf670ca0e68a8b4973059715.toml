@@ -1,0 +1,8 @@
+ladybird = "c2f7858e57df60cacf670ca0e68a8b4973059715"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "da068c021d215166b1a8271c4358148f758241a8bae3e9eb9aeb3b353f7d35a4"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-15"
+time     = "19:07"
+title    = "Meta: Update wuffs to version 0.3.5#0"
+lbenv    = "88d2b789ac77c10c257fdd2e06f48a436f92e73a"
