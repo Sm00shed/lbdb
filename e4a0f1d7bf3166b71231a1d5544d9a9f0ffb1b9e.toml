@@ -1,0 +1,8 @@
+ladybird = "e4a0f1d7bf3166b71231a1d5544d9a9f0ffb1b9e"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "5f970bc46c2d7c101227eb92b860732863d963f3239bd763ff78a132fc37855e"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-27"
+time     = "15:11"
+title    = "LibCore: Spawn processes without copying the parent's memory on Linux"
+lbenv    = "f80249e6f3df1bf3aa81ef8dedad821afe6ad395"
