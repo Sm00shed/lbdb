@@ -1,0 +1,8 @@
+ladybird = "6cad4cdd1e86e030f8587726b015680773454b08"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "5f970bc46c2d7c101227eb92b860732863d963f3239bd763ff78a132fc37855e"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-27"
+time     = "22:50"
+title    = "Documentation: Add the Quiet UI design guidelines"
+lbenv    = "f80249e6f3df1bf3aa81ef8dedad821afe6ad395"
