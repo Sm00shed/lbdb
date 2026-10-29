@@ -1,0 +1,8 @@
+ladybird = "deb215b8181a8c64b464224940f7a53f3be71843"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "5f970bc46c2d7c101227eb92b860732863d963f3239bd763ff78a132fc37855e"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-28"
+time     = "23:54"
+title    = "LibWeb: Import origin extraction tests for hyperlink elements"
+lbenv    = "a2c88f44e4fa14327a449bfc9b06ca7d4d753bc7"
