@@ -1,0 +1,8 @@
+ladybird = "d3c6041440f368150e0adb32487f3f5a23486131"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "5f970bc46c2d7c101227eb92b860732863d963f3239bd763ff78a132fc37855e"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-29"
+time     = "10:14"
+title    = "Tests/LibWeb: Accept a late end to a held tab's audio under load"
+lbenv    = "feef48809e81ba834813b18f90a6094246edb815"
