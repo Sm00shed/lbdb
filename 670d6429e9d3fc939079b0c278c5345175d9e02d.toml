@@ -1,0 +1,8 @@
+ladybird = "670d6429e9d3fc939079b0c278c5345175d9e02d"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "5f970bc46c2d7c101227eb92b860732863d963f3239bd763ff78a132fc37855e"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-30"
+time     = "18:54"
+title    = "AK: Forward all math functions to the compiler builtins"
+lbenv    = "feef48809e81ba834813b18f90a6094246edb815"
