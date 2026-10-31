@@ -1,0 +1,8 @@
+ladybird = "6e6871746d7d2e4935ad25fef9e23b47821cb47b"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "5f970bc46c2d7c101227eb92b860732863d963f3239bd763ff78a132fc37855e"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-31"
+time     = "06:55"
+title    = "LibMedia+Tests: Resume playback when seeking out of Ended"
+lbenv    = "6b10befa39b98d92ada1a183c64ef114d6131412"
