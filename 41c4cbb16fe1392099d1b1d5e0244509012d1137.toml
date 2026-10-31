@@ -1,0 +1,8 @@
+ladybird = "41c4cbb16fe1392099d1b1d5e0244509012d1137"
+nixpkgs  = "8f0500b9660505dc3cb647775fe9a978a74b5283"
+vcpkg    = "5f970bc46c2d7c101227eb92b860732863d963f3239bd763ff78a132fc37855e"
+baseline = "20ceb8adbf0504d4b0d5e4058a32f9d4fc896391"
+date     = "2026-10-31"
+time     = "01:37"
+title    = "LibWeb: Inherit currentcolor text shadows with absolute lengths"
+lbenv    = "feef48809e81ba834813b18f90a6094246edb815"
